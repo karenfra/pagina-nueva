@@ -1,0 +1,37 @@
+table{
+    border-color: green;
+    border-width: 4px;
+    border-style: solid;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: greenyellow;
+    border-radius: 5%;
+    margin: 30px;
+}
+body{
+    background-image: linear-gradient(to bottom, blue, yellow);
+    margin: 3%;
+}
+#sub{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: brown;
+    color: yellow;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+#parrafo{
+    font-size: 40px;
+    color: white;
+    text-justify: inter-cluster;
+    font-weight: lighter;
+    font-style: oblique;
+    text-align: center;
+    word-wrap: break-word;
+    text-decoration: overline yellow;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    text-shadow: 2px 4px 2px #000;
+}
